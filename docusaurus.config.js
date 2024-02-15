@@ -13,7 +13,7 @@ const config = {
     favicon: "img/favicon.ico",
 
     // Set the production url of your site here
-    url: "https://github.com",
+    url: "https://Kyytox.github.com",
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: "/kytox_lab",
@@ -21,8 +21,8 @@ const config = {
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: "Kytox", // Usually your GitHub org/user name.
-    projectName: "kytox_lab", // Usually your repo name.
+    projectName: "kytox_lab.github.io", // Usually your repo name.
+    organizationName: "Kyytox", // Usually your GitHub org/user name.
 
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
