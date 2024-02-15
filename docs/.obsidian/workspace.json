@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "ca3942c7926c692b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b47f002531ef6981",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "282c32dc82b8752a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tuto/tutorial-extras/translate-your-site.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99f327bd3bef1385",
+    "type": "split",
+    "children": [
+      {
+        "id": "f553b7bd3755ea3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57e0eec453f567c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4f1e3e770f6cd6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b8d37e9fba78a09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "269fdc5f523f7c5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff3e35b5762931d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86dd08849bae6dbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tuto/tutorial-extras/translate-your-site.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b746247fb83ac3d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tuto/tutorial-extras/translate-your-site.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5811d19e220f67b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b044a02efa5f9963",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tuto/tutorial-extras/translate-your-site.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "282c32dc82b8752a",
+  "lastOpenFiles": [
+    "Tuto/tutorial-extras/manage-docs-versions.md",
+    "Tuto/tutorial-extras/img/docsVersionDropdown.png",
+    "Tuto/tutorial-extras/img/localeDropdown.png",
+    "Tuto/tutorial-basics/create-a-document.md",
+    "Tuto/tutorial-basics/create-a-page.md",
+    "intro.md",
+    "Tuto"
+  ]
+}
