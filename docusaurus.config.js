@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
     title: "Kytox Lab",
     tagline: "Knowledge",
-    url: "https://Kyytox.github.com",
+    url: "https://github.com",
     baseUrl: "/kytox_lab/",
 
     favicon: "img/favicon.ico",
@@ -18,8 +18,7 @@ const config = {
     onBrokenMarkdownLinks: "warn",
 
     organizationName: "Kyytox", // Usually your GitHub org/user name.
-    projectName: "kytox_lab.github.io", // Usually your repo name.
-    deploymentBranch: "gh-pages",
+    projectName: "kytox_lab", // Usually your repo name.
 
     // Even if you don't use internationalization, you can use this field to set
     // useful metadata like html lang. For example, if your site is Chinese, you
