@@ -16,7 +16,7 @@ const config = {
     url: "https://github.com",
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: "/",
+    baseUrl: "/kytox_lab",
     trailingSlash: false,
 
     // GitHub pages deployment config.
