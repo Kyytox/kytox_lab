@@ -10,23 +10,15 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
     title: "Kytox Lab",
     tagline: "Knowledge",
-    favicon: "img/favicon.ico",
-
-    // Set the production url of your site here
     url: "https://Kyytox.github.com",
-    // Set the /<baseUrl>/ pathname under which your site is served
-    // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: "/kytox_lab",
-    trailingSlash: false,
+    baseUrl: "/kytox_lab/",
 
-    // GitHub pages deployment config.
-    // If you aren't using GitHub pages, you don't need these.
-    projectName: "kytox_lab.github.io", // Usually your repo name.
-    organizationName: "Kyytox", // Usually your GitHub org/user name.
-
+    favicon: "img/favicon.ico",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
 
+    organizationName: "Kyytox", // Usually your GitHub org/user name.
+    projectName: "kytox_lab.github.io", // Usually your repo name.
     deploymentBranch: "gh-pages",
 
     // Even if you don't use internationalization, you can use this field to set
