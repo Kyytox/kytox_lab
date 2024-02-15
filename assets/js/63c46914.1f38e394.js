@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkytox_lab=self.webpackChunkkytox_lab||[]).push([[8984],{7658:l=>{l.exports=JSON.parse('{"permalink":"/kytox_lab/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkytox_lab=self.webpackChunkkytox_lab||[]).push([[8996],{8424:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/kytox_lab/blog/tags/hello","allTagsPath":"/kytox_lab/blog/tags","count":2,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkytox_lab=self.webpackChunkkytox_lab||[]).push([[5672],{2952:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/kytox_lab/blog/tags/facebook","allTagsPath":"/kytox_lab/blog/tags","count":1,"unlisted":false}')}}]);
